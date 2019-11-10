@@ -1,1 +1,1 @@
-Here are some useful Jupyter notebook scripts
+Here are some useful Jupyter notebook scripts.
